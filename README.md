@@ -29,5 +29,5 @@ position : absolute;
 ## setup
 very easy huh ?! Let's set it up now.
 ```
-$ npm install
+$ npm i prlxjs
 ```
