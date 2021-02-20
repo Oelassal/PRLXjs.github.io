@@ -1,12 +1,14 @@
-# Table of content
-* [Introduction] (#introduction)
-* [documentation] (#documentation)
-* [setup] (#setup)
 
-#Introduction
+
+## Table of content
+* [Introduction](#introduction)
+* [documentation](#documentation)
+* [setup](#setup)
+
+## Introduction
 This Project is simply created just to add up to the numbers of parallax libraries out there, nothing much to see actually except that this parallax is very lightweight and doesn't use much of code.
 
-#Documentation
+## Documentation
 *First things first is creating your element in html just and add the data-speed attribute in it just to make sure that when attribute is called in javascript it will take effect with mouse speed.
 
 ```html 
@@ -24,5 +26,5 @@ position : absolute;
 * Data-speed is simply how much the element will move with the mouse direction and it's speed while moving.
 * Now, go to the setup what are you doing here ?
 
-#setup
+## setup
 very easy huh ?! Let's set it up now.
