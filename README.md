@@ -9,7 +9,7 @@
 This Project is simply created just to add up to the numbers of parallax libraries out there 🤷‍♂️, nothing much to see actually except that this parallax is very lightweight and doesn't consume any of your RAM. Oh, and not screwing up your projects also.😌
 
 ## Documentation
-* First things first is creating your element in html just and add the data-speed attribute in it just to make sure that when attribute is called in javascript it will take effect with mouse speed.
+* First things first is creating your element in html, just add the data-speed attribute in it just to make sure that when attribute is called in javascript it will take effect with mouse speed.
 
 ```html 
 <section>
